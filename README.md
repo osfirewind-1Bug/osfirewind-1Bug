@@ -1,19 +1,20 @@
 ## Hello World! I'm Muhammad Rafif 👋
 
-- 🔭 I'm currently on **Students**
-- 🌱 I'm currently learning at [**W3Schools**](https://www.w3schools.com/)
+- 🔭 I’m currently on **Students** 
+- 🌱 I’m currently learning at [**W3Schools**](https://www.w3schools.com/)
 
 ### Skills
-
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,html&perline=3)](https://skillicons.dev)
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 ### Connect with me
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin,github,instagram&perline=3)](https://skillicons.dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rafif-1b489a38a/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osfirewind-1Bug) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhammad_raf1f)
+![https://www.linkedin.com/in/muhammad-rafif-1b489a38a/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://github.com/osfirewind-1Bug](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://www.instagram.com/muhammad_raf1f](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ### Software 
 [![My Skills](https://skillicons.dev/icons?i=autocad,matlab,arduino,figma&theme=dark)](https://skillicons.dev)
@@ -23,11 +24,15 @@
 
 ### My Github Stats
 ![osfirewind-1Bug](https://github-stats-extended.vercel.app/api?username=osfirewind-1Bug&show_icons=true&theme=gruvbox)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=osfirewind-1Bug&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=osfirewind-1Bug&theme=dracula&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+</div>
+
 
 
 
 </div>
-
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osfirewind-1Bug/osfirewind-1Bug/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -46,8 +51,6 @@
 </div>
 
 ###
-
-
 
 
 ![good](https://media.giphy.com/media/qb1eHxhUHLdsc/giphy.gif)
