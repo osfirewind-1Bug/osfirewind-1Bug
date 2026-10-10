@@ -1,20 +1,19 @@
 ## Hello World! I'm Muhammad Rafif 👋
 
-- 🔭 I’m currently on **Students** 
-- 🌱 I’m currently learning at [**W3Schools**](https://www.w3schools.com/)
+- 🔭 I'm currently on **Students**
+- 🌱 I'm currently learning at [**W3Schools**](https://www.w3schools.com/)
 
 ### Skills
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,html&perline=3)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Connect with me
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin,github,instagram&perline=3)](https://skillicons.dev)
 
-![https://www.linkedin.com/in/muhammad-rafif-1b489a38a/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://github.com/osfirewind-1Bug](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://www.instagram.com/muhammad_raf1f](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rafif-1b489a38a/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osfirewind-1Bug) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhammad_raf1f)
 
 ### Software 
 [![My Skills](https://skillicons.dev/icons?i=autocad,matlab,arduino,figma&theme=dark)](https://skillicons.dev)
